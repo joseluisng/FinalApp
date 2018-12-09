@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">FinalApp</string>
+
+    <!--- Login View -->
+
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_confirm_password">Comfirm Password</string>
+    <string name="login_sign_in">Sing In</string>
+    <string name="login_sign_up">Sing Up</string>
+    <string name="login_reset_password">Reset my password</string>
+    <string name="login_sign_in_google">Sign In With Google</string>
+    <string name="login_forgot_password">I have forgotten my password</string>
+    <string name="login_create_account">Create a new account</string>
+    <string name="login_go_login">Go back to login</string>
+
+    <!--- Bottom Navigation Menu -->
+
+    <string name="navigation_bottom_info">Info</string>
+    <string name="navigation_bottom_rates">Rates</string>
+    <string name="navigation_bottom_chat">Chat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chat_edittext_message_hint">Escribe el mensaje aquí</string>
+
+    <string name="info_label_messages">Total messages</string>
+    <string name="info_no_name">Name is not available</string>
+    <string name="log_out_in_menu">Log Out</string>
+
+    <string name="dialog_title">Califica la App</string>
+    <string name="dialog_edit_text_hint">Deja tu comentario</string>
+    <string name="dialog_ok">Calificar</string>
+    <string name="dialog_cancel">Cancelar</string>
+
+
+
+</resources>
